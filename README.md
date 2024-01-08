@@ -41,7 +41,7 @@ Pet name: Zeus ⚡
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Teshidesushow_icons=true&locale=en&layout=compact&theme=dark" alt="Teshidesu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Teshidesu&show_icons=true&locale=en&layout=compact&theme=dark" alt="Teshidesu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Teshidesu&theme=radical" alt="Teshidesu" /></p>
 
