@@ -26,8 +26,8 @@ Pet name: Zeus ⚡
 # 📊 GitHub Stats:
 
 <div align="center">
-<a href="http://www.github.com/Teshidesu"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Teshidesu&theme=jolly&hide_border=true&include_all_commits=true&count_private=false" alt="Teshidesu's GitHub stats" /></a>
-<a href="https://github.com/Teshidesu"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teshidesu&theme=jolly&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /></a>
+<a href="http://www.github.com/Teshidesu"><img width="43%" src="https://github-readme-stats.vercel.app/api?username=Teshidesu&theme=jolly&hide_border=true&include_all_commits=true&count_private=false" alt="Teshidesu's GitHub stats" /></a>
+<a href="https://github.com/Teshidesu"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teshidesu&theme=jolly&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /></a>
 <a href="http://www.github.com/Teshidesu"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Teshidesu&theme=jolly&hide_border=true" width = "100%"/></a>
 </div>
 
