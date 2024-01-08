@@ -36,13 +36,4 @@ Pet name: Zeus ⚡
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="https://github.com/Teshidesu"><img src="https://github-readme-stats.vercel.app/api?username=Teshidesu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ambar's GitHub stats" /></a>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Teshidesu&show_icons=true&locale=en&layout=compact&theme=dark" alt="Teshidesu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Teshidesu&theme=radical" alt="Teshidesu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Teshidesu&show_icons=true&locale=en&theme=dark" alt="Teshidesu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Teshidesu&show_icons=true&locale=en&layout=compact&theme=dark" alt="Teshidesu" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Teshidesu&theme=radical" alt="Teshidesu" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Teshidesu&show_icons=true&locale=en&theme=dark" alt="Teshidesu" /></p>
