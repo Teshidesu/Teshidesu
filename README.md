@@ -1,4 +1,4 @@
-<img src="https://usagif.com/wp-content/uploads/2022/hqgif/ocean-wave-54-bright-beach-day-waves.gif" alt="wave" width="500" align="center" height="100" >
+<img src="https://usagif.com/wp-content/uploads/2022/hqgif/ocean-wave-53-light-blue-waves.gif" alt="wave" width="800" align="center" height="100" >
 
 
 Hola! Welcome Back![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ambar Perez
