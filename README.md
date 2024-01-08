@@ -1,10 +1,9 @@
-<img src="https://usagif.com/wp-content/uploads/2022/hqgif/ocean-wave-53-light-blue-waves.gif" alt="wave" width="800" align="center" height="100" >
-
+<div><img src="https://tenor.com/es/view/birthday-gif-27509000" alt="portrait" width="100" align="right" ></div>
 
 Hola! Welcome Back![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ambar Perez
 
 Junior developer 
-----------------------------------------------
+---------------------------------------------- 
 
 ### Skills
 
