@@ -31,9 +31,9 @@ Pet name: Zeus ⚡
 <a href="http://www.github.com/Teshidesu"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Teshidesu&theme=jolly&hide_border=true" width = "100%"/></a>
 </div>
 
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Teshidesu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
