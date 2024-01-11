@@ -45,9 +45,12 @@ Pet name: Zeus ⚡
 ## 🥻 Cosplay Page ⬇⬇ 
  [![Buy-Me-a-Kofi](https://img.shields.io/badge/Buy%20Me%20a%20Kofi-8a63d2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/teshi_cosplay)
 
-
-
-[![](https://visitcount.itsvg.in/api?id=Teshidesu&icon=7&color=5)](https://visitcount.itsvg.in)
+  
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Teshidesu&icon=7&color=5" alt="Visit Count" />
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
