@@ -1,6 +1,7 @@
 Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to my place 
 ----------------
-<img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right">
+<img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right"> 
+
 # 💫 About Me: 
 🔭I'm currently working on #30NitesOfCode by @Codedex <br>🧸I'm currently learning  JavaScript & Bootstrap<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻
 
@@ -37,6 +38,7 @@ Pet name: Zeus ⚡
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 [![](https://visitcount.itsvg.in/api?id=Teshidesu&icon=7&color=5)](https://visitcount.itsvg.in)
 
