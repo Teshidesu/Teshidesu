@@ -39,6 +39,9 @@ Pet name: Zeus ⚡
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+## 💰 You can help me by Donating
+ [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://https://www.buymeacoffee.com/ambarp00)
+ [![BuyMeAKofi](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/teshi_cosplay#linkModal)
 
 [![](https://visitcount.itsvg.in/api?id=Teshidesu&icon=7&color=5)](https://visitcount.itsvg.in)
 
