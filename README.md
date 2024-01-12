@@ -1,11 +1,14 @@
-Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to my place 
+Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to my place  
+
+![](https://vbr.wocr.tk/badge?page_id=FriendlySpies-badge-reloaded-FriendlySpies&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&hit=false)
+
 ----------------
-<img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right"> 
-
+<img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right">   
+ 
 # 💫 About Me: 
-🔭I'm currently working on #30NitesOfCode by @Codedex <br>🧸I'm currently learning  JavaScript & Bootstrap<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻
-
---------------------------
+🔭I'm currently working on #30NitesOfCode by @Codedex <br>🧸I'm currently learning  JavaScript & Bootstrap<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻 
+  
+-------------------------- 
 I am participating in the #30NitesOfCode to create new study habits with my virtual pet, an adorable chicken 🐥where I will be very happy with my daily progress during the month of January. Thanks to @Codedex for the opportunity! ✨
 
 Pet name: Zeus ⚡
@@ -46,11 +49,6 @@ Pet name: Zeus ⚡
  [![Buy-Me-a-Kofi](https://img.shields.io/badge/Buy%20Me%20a%20Kofi-8a63d2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/teshi_cosplay)
 
   
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Teshidesu&icon=7&color=5" alt="Visit Count" />
-  </a>
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
