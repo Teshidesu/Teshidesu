@@ -1,7 +1,10 @@
-# Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my place  
+# Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my Coding Kingdom!🧙‍♂️✨
 
 ![](https://vbr.wocr.tk/badge?page_id=FriendlySpies-badge-reloaded-FriendlySpies&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&hit=false)
 
+### 📘 My Current Studies:
+
+Currently, I am in my `first year` as a `Technician in Software Design and Creation` at the National Institute of Professional Technical Training. Additionally, I am immersed in my `second-year` at the Cincinnatus Institute, where I study `Software Development` using Blended Learning and Experiential Learning methodologies.
 
 <img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right">   
  
@@ -35,21 +38,27 @@ Pet name: Zeus ⚡
 <a href="http://www.github.com/Teshidesu"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Teshidesu&theme=jolly&hide_border=true" width = "100%"/></a>
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Teshidesu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📜 Magical Manifesto:
+
+```python
+def conjure_code():
+     while Learner:
+         Practice()
+         To experience()
+         Create()
+```
 
 
 ### 😂 Random Dev Meme
+<div align="center" width="50">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ## 💰 You can help me by Donating
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://https://www.buymeacoffee.com/ambarp00)
-
-## 🥻 Cosplay Page ⬇⬇ 
  [![Buy-Me-a-Kofi](https://img.shields.io/badge/Buy%20Me%20a%20Kofi-8a63d2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/teshi_cosplay)
 
-  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
