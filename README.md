@@ -7,7 +7,6 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&pause=1000&color=F7480C&random=false&width=435&lines=Junior+Web+Developer%F0%9F%8C%BC)](https://git.io/typing-svg)
 </div>
 
-
 ### 📘 My Current Studies:
 
 Currently, I am in my `first year` as a `Technician in Software Design and Creation` at the National Institute of Professional Technical Training. Additionally, I am immersed in my `second-year` at the Cincinnatus Institute, where I study `Software Development` using Blended Learning and Experiential Learning methodologies.
@@ -16,6 +15,7 @@ Currently, I am in my `first year` as a `Technician in Software Design and Creat
  
 # 💫 About Me: 
 🔭I'm currently working on #30NitesOfCode by @Codedex <br>🧸I'm currently learning  JavaScript & Bootstrap<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻 
+
   
 -------------------------- 
 I am participating in the #30NitesOfCode to create new study habits with my virtual pet, an adorable chicken 🐥where I will be very happy with my daily progress during the month of January. Thanks to @Codedex for the opportunity! ✨
@@ -68,8 +68,5 @@ def conjure_code():
 ## 💰 You can help me by Donating
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://https://www.buymeacoffee.com/ambarp00)
  [![Buy-Me-a-Kofi](https://img.shields.io/badge/Buy%20Me%20a%20Kofi-8a63d2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/teshi_cosplay)
-
-
-
 
 
