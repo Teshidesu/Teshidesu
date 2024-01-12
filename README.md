@@ -21,11 +21,12 @@ Currently, I am in my `first year` as a `Technician in Software Design and Creat
 I am participating in the #30NitesOfCode to create new study habits with my virtual pet, an adorable chicken 🐥where I will be very happy with my daily progress during the month of January. Thanks to @Codedex for the opportunity! ✨
 
 Pet name: Zeus ⚡
-
+<div align="center" width="50">
+ 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Ambar/30-nites-of-code)  
   ![@Ambar #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Ambar)
-
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ateshidesu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ambx_00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%C3%A1mbar-p%C3%A9rez-rodr%C3%ADguez-6b1b3b250) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/teshidesu) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Teshidesu) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/teshidesu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/teshidesu23) 
