@@ -2,6 +2,12 @@
 
 ![](https://vbr.wocr.tk/badge?page_id=FriendlySpies-badge-reloaded-FriendlySpies&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&hit=false)
 
+<div align="center" width="50">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monocraft&pause=1000&color=F7EE22&random=false&width=435&lines=Junior+Web+Developer%F0%9F%8C%BC)](https://git.io/typing-svg)
+</div>
+
+
 ### 📘 My Current Studies:
 
 Currently, I am in my `first year` as a `Technician in Software Design and Creation` at the National Institute of Professional Technical Training. Additionally, I am immersed in my `second-year` at the Cincinnatus Institute, where I study `Software Development` using Blended Learning and Experiential Learning methodologies.
