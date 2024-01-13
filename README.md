@@ -5,6 +5,7 @@
 <div align="center" width="50">
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&pause=1000&color=F7480C&random=false&width=435&lines=Junior+Web+Developer%F0%9F%8C%BC)](https://git.io/typing-svg)
+ <img src="https://github.com/Teshidesu/Teshidesu/issues/1#issue-2080018401">
 </div>
 
 ### 📘 My Current Studies:
