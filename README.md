@@ -1,6 +1,6 @@
 # Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my Coding Kingdom!🧙‍♂️✨
 
-![](https://vbr.wocr.tk/badge?page_id=FriendlySpies-badge-reloaded-FriendlySpies&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&hit=false)
+[![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Admires&color=37fbfe&labelColor=010a0a)](https://hits.sh/github.com/Teshidesu/)
 
 <div align="center" width="50">
 
