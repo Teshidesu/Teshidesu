@@ -3,7 +3,7 @@
 ![](https://vbr.wocr.tk/badge?page_id=FriendlySpies-badge-reloaded-FriendlySpies&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&hit=false)
 
 <div align="center" width="50">
- 
+
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&pause=1000&color=F7480C&random=false&width=435&lines=Junior+Web+Developer%F0%9F%8C%BC)](https://git.io/typing-svg)
 </div>
 
