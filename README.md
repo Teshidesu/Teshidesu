@@ -18,7 +18,7 @@ Currently, I am in my `first year` as a `Technician in Software Design and Creat
 
   
 -------------------------- 
-I am participating in the #30NitesOfCode to create new study habits with my virtual pet, an adorable chicken 🐥where I will be very happy with my daily progress during the month of January. Thanks to @Codedex for the opportunity! ✨
+I am participating in the `#30NitesOfCode` to create new study habits with my virtual pet, an adorable chicken 🐥where I will be very happy with my daily progress during the month of January. `Thanks to @Codedex for the opportunity!` ✨
 
 Pet name: Zeus ⚡
 <div align="center" width="50">
