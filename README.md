@@ -9,7 +9,7 @@
 
 ### 📘 My Current Studies:
 
-Currently, I am in my `first year` as a `Technician in Software Design and Creation` at the National Institute of Professional Technical Training. Additionally, I am immersed in my `second-year` at the Cincinnatus Institute, where I study `Software Development` using Blended Learning and Experiential Learning methodologies.
+I am in my `first year` as a `Technician in Software Design and Creation` at the National Institute of Professional Technical Training. Additionally, I am immersed in my `second-year` at the Cincinnatus Institute, where I study `Software Development` using Blended Learning and Experiential Learning methodologies.
 
 <img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right">   
  
