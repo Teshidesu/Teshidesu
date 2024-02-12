@@ -14,7 +14,7 @@ I am in my `first year` as a `software development and design at` the National I
 <img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right">   
  
 # 💫 About Me: 
-🔭I'm currently working on #30NitesOfCode by @Codedex <br>🧸I'm currently learning  Linux<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻 
+🔭I'm currently working on #30NitesOfCode by @Codedex <br>🧸I'm currently learning Python<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻 
 
   
 -------------------------- 
