@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Admires&color=37fbfe&labelColor=010a0a)](https://hits.sh/github.com/Teshidesu/)
 
-<div align="center" width="50">
+<div align="center" width="50"> 
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&pause=1000&color=F7480C&random=false&width=435&lines=Junior+Web+Developer%F0%9F%8C%BC)](https://git.io/typing-svg)
 </div>
