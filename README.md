@@ -2,9 +2,10 @@
 
 [![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Admires&color=37fbfe&labelColor=010a0a)](https://hits.sh/github.com/Teshidesu/)
 
-<div align="center" width="50"> 
+<div align="center" width="50" style="display: flex; flex-direction: column; align-items: center;">
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&pause=1000&color=F7480C&random=false&width=435&lines=Junior+Web+Developer%F0%9F%8C%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&duration=3800&pause=1000&color=088A0F&background=F74CFF00&random=false&width=435&lines=My+journey+to+Full+Stack%F0%9F%A4%96)](https://git.io/typing-svg)
+
 </div>
 
 ### 📘 My Current Studies:
@@ -14,13 +15,13 @@ I am in my `first year` as a `software development and design at` the National I
 <img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right">   
  
 # 💫 About Me: 
-🔭I'm currently working on #30NitesOfCode by @Codedex <br>🧸I'm currently learning Python<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻 
+🔭I'm currently working on #30NitesOfCode by @Codedex <br>🧸I'm currently learning `UI-UX design`<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻 
 
   
 -------------------------- 
-I am participating in the `#30NitesOfCode` to create new study habits with my virtual pet, an adorable chicken 🐥where I will be very happy with my daily progress during the month of January. `Thanks to @Codedex for the opportunity!` ✨
+I am participating in the `#30NitesOfCode` to create new study habits with my virtual pet, an adorable pet🐥🐸🦛where I will be very happy with my daily progress during the month of march. `Thanks to @Codedex for the opportunity!` ✨
 
-Pet name: Zeus ⚡
+Pet name: Scyther🐲
 <div align="center" width="50">
  
 ## #30NitesOfCode:
@@ -66,7 +67,7 @@ def conjure_code():
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
 
-## 💰 You can help me by Donating
+## 🐱‍🏍Support
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://https://www.buymeacoffee.com/ambarp00)
  [![Buy-Me-a-Kofi](https://img.shields.io/badge/Buy%20Me%20a%20Kofi-8a63d2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/teshi_cosplay)
 
