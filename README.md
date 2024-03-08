@@ -1,6 +1,6 @@
 # Welcome to my Coding Kingdom!🧙‍♂️✨ 
 
-[![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Admires&color=37fbfe&labelColor=010a0a)](https://hits.sh/github.com/Teshidesu/)
+[![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Visitors&color=a1df8c)](https://hits.sh/github.com/Teshidesu/)
 
 <div align="center" width="50" style="display: flex; flex-direction: column; align-items: center;">
  
