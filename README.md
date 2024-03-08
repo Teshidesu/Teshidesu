@@ -16,10 +16,11 @@ I am in my `first year` as a `software development and design at` the National I
 ## 💫 About Me
 🔭I'm currently working on #30NitesOfCode by @Codedex <br>🧸I'm currently learning `UI-UX design`<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻 
 
+------------------------------------
+
 <img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right"> 
 
 
--------------------------- 
 I am participating in the `#30NitesOfCode` to create new study habits with my virtual pet, an adorable pet🐥🐸🦛where I will be very happy with my daily progress during the month of march. `Thanks to @Codedex for the opportunity!` ✨
 
 Pet name: Scyther🐲
