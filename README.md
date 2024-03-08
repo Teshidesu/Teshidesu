@@ -1,4 +1,4 @@
-# Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my Coding Kingdom!🧙‍♂️✨
+# Welcome to my Coding Kingdom!🧙‍♂️✨ 
 
 [![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Admires&color=37fbfe&labelColor=010a0a)](https://hits.sh/github.com/Teshidesu/)
 
@@ -8,14 +8,15 @@
 
 </div>
 
-# 📘 My Current Studies
+## 📘 My Current Studies
 
-I am in my `first year` as a `software development and design at` the National Institute of Professional Technical Training. Additionally, I am immersed in my `second-year` at the Cincinnatus Institute, where I study `Software Development` using Blended Learning and Experiential Learning methodologies. 
+I am in my `first year` as a `software development and design at` the National Institute of Professional Technical Training. Additionally, I am immersed in my `second-year` at the Cincinnatus Institute, where I study `Software Development` using Blended Learning and Experiential Learning methodologies.    
 
-<img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right">   
  
-# 💫 About Me
+## 💫 About Me
 🔭I'm currently working on #30NitesOfCode by @Codedex <br>🧸I'm currently learning `UI-UX design`<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻 
+
+<img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right"> 
 
 
 -------------------------- 
@@ -29,7 +30,7 @@ Pet name: Scyther🐲
   ![@Ambar #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Ambar)
 </div>
 
-# 🌐 Socials
+## 🌐 Socials
 <p align="left"> <a href="https://discord.gg/ateshidesu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/Teshidesu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://instagram.com/ambx_00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
@@ -37,7 +38,7 @@ Pet name: Scyther🐲
 <a href="https://x.com/teshidesu23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://twitch.tv/teshidesu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -52,14 +53,14 @@ Pet name: Scyther🐲
  
 </p>
 
-#✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <div align="center" width="50">
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
  
 </div>
 
-#📜 Magical Manifesto
+## 📜 Magical Manifesto
 
 ```python
 def conjure_code():
@@ -69,7 +70,7 @@ def conjure_code():
          Create()
 ```
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 <a href="http://www.github.com/Teshidesu"><img width="43%" src="https://github-readme-stats.vercel.app/api?username=Teshidesu&theme=jolly&hide_border=true&include_all_commits=true&count_private=false" alt="Teshidesu's GitHub stats" /></a>
@@ -79,12 +80,12 @@ def conjure_code():
 </div>
 
 
-# 😂 Random Dev Meme
+## 😂 Random Dev Meme
 <div align="center" width="50">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
 
-# 🐱‍🏍Support
+## 🐱‍🏍Support
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://https://www.buymeacoffee.com/ambarp00)
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/teshi_cosplay)
 
