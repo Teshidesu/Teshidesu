@@ -21,9 +21,14 @@ I am participating in the `#30NitesOfCode` to create new study habits with my vi
   [Check out my progress!](https://www.codedex.io/@Ambar/30-nites-of-code)   
 
 <div align="center" width="50">
+ 
+ ## Scyther🐲
+ 
+</div>
 
 
-## Scyther🐲
+<div align="center" width="50">
+
  
   ![@Ambar #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Ambar)
   
