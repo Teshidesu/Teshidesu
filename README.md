@@ -1,4 +1,5 @@
-# Welcome to my Coding Kingdom!🧙‍♂️✨ 
+# Welcome to my Coding Kingdom!🧙‍♂️✨  
+<img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" width="100"/>
 
 [![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Visitors&color=a1df8c)](https://hits.sh/github.com/Teshidesu/)
 
