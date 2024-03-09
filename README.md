@@ -73,9 +73,9 @@ def conjure_code():
 ## 📊 GitHub Stats
 
 <div align="center">
-<a href="http://www.github.com/Teshidesu"><img width="43%" src="https://github-readme-stats.vercel.app/api?username=Teshidesu&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light" alt="Teshidesu's GitHub stats" /></a>
-<a href="https://github.com/Teshidesu"><img width="37%" src="https://github-readme-stats.vercel.app/api/pin/?username=Teshidesu&repo=Profile-magazine&cache_seconds=86400&theme=gruvbox_light" alt="repo cart" /></a>
-<a href="http://www.github.com/Teshidesu"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Teshidesu&theme=gruvbox_light&hide_border=true" width = "50%"/></a>
+<a href="http://www.github.com/Teshidesu"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Teshidesu&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light" alt="Teshidesu's GitHub stats" /></a>
+<a href="https://github.com/Teshidesu"><img width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=Teshidesu&repo=Profile-magazine&cache_seconds=86400&theme=gruvbox_light" alt="repo cart" /></a>
+<a href="http://www.github.com/Teshidesu"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Teshidesu&theme=gruvbox_light&hide_border=true" width = "70%"/></a>
  
 
 
