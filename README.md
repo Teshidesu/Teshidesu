@@ -2,8 +2,9 @@
 <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" width="100"/> 
 
 <div align="center" width="50" style="display: flex; flex-direction: column; align-items: center;">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&duration=2000&pause=400&color=4EC058FB&background=F74CFF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=Howdy!%F0%9F%8C%B1;I'm+a+SW+Dev%2C+here+is+my+full+stack+adventure)](https://git.io/typing-svg)
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&duration=1000&pause=400&color=4EC058FB&background=F74CFF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=Howdy!%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&duration=2000&pause=400&color=C0B456FB&background=F74CFF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=I'm+SW%2C+here's+my+full+stack+aventure+%2F%E1%90%A0%EF%BD%A1%EA%9E%88%EF%BD%A1%E1%90%9F%5C)](https://git.io/typing-svg)
 
 </div>
 
