@@ -5,7 +5,7 @@
 <div align="center" width="50" style="display: flex; flex-direction: column; align-items: center;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&duration=2000&pause=400&color=4EC058FB&background=F74CFF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=Howdy!%F0%9F%8C%B1;I'm+a+SW+Dev%2C+here+is+my+full+stack+adventure)](https://git.io/typing-svg)
-
+<img src="https://tenor.com/es/view/jitomi-monoe-voms-gif-18865250.gif" alt="pixel" width="150" align="left"> 
 </div>
 
 <div align="right" width="50" style="display: flex; flex-direction: column; align-items: right;">
@@ -13,12 +13,12 @@
   [![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Visitors&color=a1df8c)](https://hits.sh/github.com/Teshidesu/) 
 </div>
 
-## 📘 My Current Studies 
 
+## 📘 My Current Studies 
 I am in my `first year` as a `software development and design at` the National Institute of Professional Technical Training. Additionally, I am immersed in my `second-year` at the Cincinnatus Institute, where I study `Software Development` using Blended Learning and Experiential Learning methodologies.   
 
 ## 💫 About Me
-🔭I'm currently working on #30NitesOfCode by @Codedex <br>🧸I'm currently learning `UI-UX design`<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻   <img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right"> 
+🔭I'm currently working on #30NitesOfCode by @Codedex <br>🧸I'm currently learning `UI-UX design`<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻  
 
 --------------------
 
@@ -35,13 +35,15 @@ I am participating in the `#30NitesOfCode` to create new study habits with my vi
   
 </div>
 
-## 🌐 Socials
-<p align="left"> <a href="https://discord.gg/ateshidesu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+## 🌐 Socials  
+
+<p align="left"> <a href="https://discord.gg/ateshidesu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/Teshidesu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://instagram.com/ambx_00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/%C3%A1mbar-p%C3%A9rez-rodr%C3%ADguez-6b1b3b250" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://x.com/teshidesu23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://twitch.tv/teshidesu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
 
 ## 💻 Tech Stack
 <p align="left">
@@ -57,6 +59,7 @@ I am participating in the `#30NitesOfCode` to create new study habits with my vi
 <a href="https://docs.github.com/es" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  width="36" height="36" alt="Github" /></a>
  
 </p>
+
 
 ## ✍️ Random Dev Quote
 <div align="center" width="50">
