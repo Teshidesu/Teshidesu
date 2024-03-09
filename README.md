@@ -5,7 +5,7 @@
 
 <div align="center" width="50" style="display: flex; flex-direction: column; align-items: center;">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&duration=1000&pause=1000&color=4EC058FB&background=F74CFF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=Howdy!%F0%9F%8C%B1;I'm+a+SW+Dev%2C+here+is+my+full+stack+adventure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&duration=2000&pause=2000&color=4EC058FB&background=F74CFF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=Howdy!%F0%9F%8C%B1;I'm+a+SW+Dev%2C+here+is+my+full+stack+adventure)](https://git.io/typing-svg)
 
 </div>
 
