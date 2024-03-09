@@ -20,7 +20,7 @@ I am in my `first year` as a `software development and design at` the National I
 I am participating in the `#30NitesOfCode` to create new study habits with my virtual pet, an adorable pet🐥🐸🦛where I will be very happy with my daily progress during the month of march. `Thanks to @Codedex for the opportunity!` ✨
   [Check out my progress!](https://www.codedex.io/@Ambar/30-nites-of-code)   
 
-<div align="center" width="50">
+<div align="right" width="50">
  
  ## Scyther🐲
  
