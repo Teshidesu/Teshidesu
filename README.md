@@ -76,7 +76,9 @@ def conjure_code():
 <a href="http://www.github.com/Teshidesu"><img width="43%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light" alt="Teshidesu's GitHub stats" /></a>
 <a href="https://github.com/Teshidesu"><img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=gruvbox_light" alt="repo cart" /></a>
 <a href="http://www.github.com/Teshidesu"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Teshidesu&theme=jolly&hide_border=true" width = "100%"/></a>
-
+ 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
