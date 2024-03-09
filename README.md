@@ -3,16 +3,16 @@
 
 <img src="https://tenor.com/es/view/jitomi-monoe-voms-gif-18865250.gif" alt="pixel" width="150" align="left">  
 
-<div align="right" width="50" style="display: flex; flex-direction: column; align-items: right;">
- 
-  [![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Visitors&color=a1df8c)](https://hits.sh/github.com/Teshidesu/) 
-</div>
 
 <div align="center" width="50" style="display: flex; flex-direction: column; align-items: center;">
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&duration=2000&pause=400&color=4EC058FB&background=F74CFF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=Howdy!%F0%9F%8C%B1;I'm+a+SW+Dev%2C+here+is+my+full+stack+adventure)](https://git.io/typing-svg)
 
+</div>
+
+<div align="right" width="50" style="display: flex; flex-direction: column; align-items: right;">
+ 
+  [![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Visitors&color=a1df8c)](https://hits.sh/github.com/Teshidesu/) 
 </div>
 
 ## 📘 My Current Studies 
