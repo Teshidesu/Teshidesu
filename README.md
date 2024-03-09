@@ -5,7 +5,7 @@
 <div align="center" width="50" style="display: flex; flex-direction: column; align-items: center;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&duration=2000&pause=400&color=4EC058FB&background=F74CFF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=Howdy!%F0%9F%8C%B1;I'm+a+SW+Dev%2C+here+is+my+full+stack+adventure)](https://git.io/typing-svg)
-<img src="https://tenor.com/es/view/jitomi-monoe-voms-gif-18865250.gif" alt="pixel" width="150" align="left"> 
+
 </div>
 
 <div align="right" width="50" style="display: flex; flex-direction: column; align-items: right;">
@@ -85,7 +85,7 @@ def conjure_code():
 <a href="https://github.com/Teshidesu"><img width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=Teshidesu&repo=Profile-magazine&cache_seconds=86400&theme=gruvbox_light" alt="repo cart" /></a>
 <a href="http://www.github.com/Teshidesu"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Teshidesu&theme=gruvbox_light&hide_border=true" width = "70%"/></a>
  
-
+<img src="https://tenor.com/es/view/jitomi-monoe-voms-gif-18865250.gif" alt="pixel" width="280" align="left"> 
 
 </div>
 
