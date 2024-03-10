@@ -3,7 +3,6 @@
 
 
 <img src="https://tenor.com/es/view/kamitsubaki_studio-shin-shiros-shirosu-pixel-art-gif-25575304.gif" alt="pixel" width="190" align="left">
------------------------->𝘐͓̦͓ 𝘥̘͔͜𝘰̠͜͜𝘯̫͜'̢̝̪𝘵͚̠͇ 𝘧͓̦𝘶̝̟̦𝘭̢̟͔𝘧̡͇͙𝘪͙̦̘𝘭͎͙͉𝘭͎̟̫ 𝘨͔̦̳𝘰̡̦̙𝘢͇͚̟𝘭͓͖͓𝘴̠͜͜,̢͍ 𝘐͚͙ 𝘶̢̝͚𝘯̦̳𝘭͖͓𝘰̞͉͚𝘤̦̝͍𝘬̳̪̻ 𝘢̺͔͖𝘤̪̠̙𝘩̻͜𝘪̻͎𝘦͓̪͚𝘷͓̘̻𝘦͔͖͙𝘮̦̪𝘦͙͚͜𝘯̠̠͖𝘵̦̞̪𝘴͇͔<-----------------------
 
 <div align="center" width="20" style="display: flex; flex-direction: column; align-items: center;">
  
@@ -22,8 +21,9 @@
 ## 📘 My Current Studies 
 I am in my `first year` as a `software development and design at` the National Institute of Professional Technical Training. Additionally, I am immersed in my `second-year` at the Cincinnatus Institute, where I study `Software Development` using Blended Learning and Experiential Learning methodologies.   
 
+
 ## 💫 About Me
-🔭I'm currently working on #30NitesOfCode by @Codedex <br>🧸I'm currently learning `UI-UX design`<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻   <img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right"> 
+🔭I'm currently working on #30NitesOfCode by `@Codedex` <br>🧸I'm currently learning `UI-UX design`<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻 <br>🏆𝘐 𝘥𝘰𝘯'𝘵 𝘧𝘶𝘭𝘧𝘪𝘭𝘭 𝘨𝘰𝘢𝘭𝘴, 𝘐 𝘶𝘯𝘭𝘰𝘤𝘬 𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴! <br> <br>`Quote for the day`"My wand is the keyboard, and my spell is the code"🎇<br> <img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right"> 
 
 --------------------
 
