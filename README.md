@@ -89,8 +89,8 @@ def conjure_code():
 
 ## 😂 Random Dev Meme
 <div align="center" width="50">
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
- <img src="https://tenor.com/es/view/jitomi-monoe-voms-gif-18865250.gif" alt="pixel" width="300"> 
+<img src='https://randommeme-five.vercel.app/' style="height: 280px;"/>
+ <img src="https://tenor.com/es/view/jitomi-monoe-voms-gif-18865250.gif" alt="pixel" width="280"> 
 </div>
 
 ## 🐱‍🏍Support
