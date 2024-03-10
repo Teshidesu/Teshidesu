@@ -2,6 +2,7 @@
 <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" width="100"/> 
 
 <img src="https://tenor.com/es/view/kamitsubaki_studio-shin-shiros-shirosu-pixel-art-gif-25575304.gif" alt="pixel" width="190" align="left">
+----------------------------------𝘐͓̦͓ 𝘥̘͔͜𝘰̠͜͜𝘯̫͜'̢̝̪𝘵͚̠͇ 𝘧͓̦𝘶̝̟̦𝘭̢̟͔𝘧̡͇͙𝘪͙̦̘𝘭͎͙͉𝘭͎̟̫ 𝘨͔̦̳𝘰̡̦̙𝘢͇͚̟𝘭͓͖͓𝘴̠͜͜,̢͍ 𝘐͚͙ 𝘶̢̝͚𝘯̦̳𝘭͖͓𝘰̞͉͚𝘤̦̝͍𝘬̳̪̻ 𝘢̺͔͖𝘤̪̠̙𝘩̻͜𝘪̻͎𝘦͓̪͚𝘷͓̘̻𝘦͔͖͙𝘮̦̪𝘦͙͚͜𝘯̠̠͖𝘵̦̞̪𝘴͇͔🎮----------------------------------
 
 <div align="center" width="20" style="display: flex; flex-direction: column; align-items: center;">
  
@@ -16,7 +17,6 @@
 </div>
 
 
-----------------------------------𝘐͓̦͓ 𝘥̘͔͜𝘰̠͜͜𝘯̫͜'̢̝̪𝘵͚̠͇ 𝘧͓̦𝘶̝̟̦𝘭̢̟͔𝘧̡͇͙𝘪͙̦̘𝘭͎͙͉𝘭͎̟̫ 𝘨͔̦̳𝘰̡̦̙𝘢͇͚̟𝘭͓͖͓𝘴̠͜͜,̢͍ 𝘐͚͙ 𝘶̢̝͚𝘯̦̳𝘭͖͓𝘰̞͉͚𝘤̦̝͍𝘬̳̪̻ 𝘢̺͔͖𝘤̪̠̙𝘩̻͜𝘪̻͎𝘦͓̪͚𝘷͓̘̻𝘦͔͖͙𝘮̦̪𝘦͙͚͜𝘯̠̠͖𝘵̦̞̪𝘴͇͔🎮----------------------------------
 
 ## 📘 My Current Studies 
 I am in my `first year` as a `software development and design at` the National Institute of Professional Technical Training. Additionally, I am immersed in my `second-year` at the Cincinnatus Institute, where I study `Software Development` using Blended Learning and Experiential Learning methodologies.   
