@@ -4,14 +4,14 @@
 
 <div align="center" width="20" style="display: flex; flex-direction: column; align-items: center;">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&duration=3500&pause=1000&color=7EE45D&center=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Howdy!%F0%9F%8C%B1;I'm+SW%2C+here's+my+full+stack+aventure+%2F%E1%90%A0%EF%BD%A1%EA%9E%88%EF%BD%A1%E1%90%9F%5C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&duration=3500&pause=1000&color=3B42E4&center=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Howdy!%F0%9F%8C%B1;I'm+SW%2C+here's+my+full+stack+aventure+%2F%E1%90%A0%EF%BD%A1%EA%9E%88%EF%BD%A1%E1%90%9F%5C)](https://git.io/typing-svg)
 
 </div>
 
 <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" width="90"/>  
 <div align="right" width="50" style="display: flex; flex-direction: column; align-items: right;">
  
-[![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Visitors&color=a1df8c)](https://hits.sh/github.com/Teshidesu/) 
+[![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Visitors&color=0F56E7)](https://hits.sh/github.com/Teshidesu/) 
 </div>
 
 
@@ -106,7 +106,7 @@ def conjure_code():
 </div>
 
 ## 
-**Thank you for visiting my profile! I hope you find what you're looking for and enjoy exploring. If you need help or have any questions, don't hesitate to contact me. Welcome and thank you for being here!* 💚
+*Thank you for visiting my profile! I hope you find what you're looking for and enjoy exploring. If you need help or have any questions, don't hesitate to contact me. Welcome and thank you for being here!* 💚
 
 ## 🐱‍🏍Support
 
