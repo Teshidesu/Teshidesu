@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" width="100"/>  
+<img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" width="90"/>  
 <div align="right" width="50" style="display: flex; flex-direction: column; align-items: right;">
  
 [![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Visitors&color=a1df8c)](https://hits.sh/github.com/Teshidesu/) 
