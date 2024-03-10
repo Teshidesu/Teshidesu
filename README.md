@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" width="100"/>  
 
 
-<img src="https://tenor.com/es/view/kamitsubaki_studio-shin-shiros-shirosu-pixel-art-gif-25575304.gif" alt="pixel" width="190" align="left">
+<img src="https://tenor.com/es/view/kamitsubaki_studio-shin-shiros-shirosu-pixel-art-gif-25575304.gif" alt="pixel" width="200" align="left">
 
 <div align="center" width="20" style="display: flex; flex-direction: column; align-items: center;">
  
@@ -23,7 +23,7 @@ I am in my `first year` as a `software development and design at` the National I
 
 
 ## 💫 About Me
-🔭I'm currently working on #30NitesOfCode by `@Codedex` <br>🧸I'm currently learning `UI-UX design`<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻 <br>🏆𝘐 𝘥𝘰𝘯'𝘵 𝘧𝘶𝘭𝘧𝘪𝘭𝘭 𝘨𝘰𝘢𝘭𝘴, 𝘐 𝘶𝘯𝘭𝘰𝘤𝘬 𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴! <br> <br>`Quote for the day`"My wand is the keyboard, and my spell is the code"🎇<br> <img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right"> 
+🔭I'm currently working on #30NitesOfCode by `@Codedex` <br>🧸I'm currently learning `UI-UX design`<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻 <br>🏆𝘐 𝘥𝘰𝘯'𝘵 𝘧𝘶𝘭𝘧𝘪𝘭𝘭 𝘨𝘰𝘢𝘭𝘴, 𝘐 𝘶𝘯𝘭𝘰𝘤𝘬 𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴! <br> <br>`phrase of the day`"My wand is the keyboard, and my spell is the code"🎇<br> <img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right"> 
 
 --------------------
 
