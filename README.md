@@ -87,7 +87,7 @@ def conjure_code():
 ```
 
 ##
-**In the field of programming, I embrace every challenge as an opportunity to grow. Every mistake is a step towards success, every obstacle a test of my determination. Despite momentary defeats, I bravely persist, knowing that each line of code written brings me closer to my goal.**
+**Every mistake is a step towards success, every obstacle a test of my determination. Despite momentary defeats, I bravely persist, knowing that each line of code written brings me closer to my goal.**
 
 <img src="https://tenor.com/es/view/elden-ring-hidetaka-miyazaki-fromsoftware-dark-souls-dark-souls2-gif-23544568.gif" alt="pixel" width="1000" align="center"> 
 
