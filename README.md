@@ -1,7 +1,7 @@
 ## Welcome to my Coding Kingdom!🧙‍♂️✨
 <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" width="100"/> 
 
-<img src="https://tenor.com/es/view/kamitsubaki_studio-shin-shiros-shirosu-pixel-art-gif-25575304.gif" alt="pixel" width="250" align="left">
+<img src="https://tenor.com/es/view/kamitsubaki_studio-shin-shiros-shirosu-pixel-art-gif-25575304.gif" alt="pixel" width="190" align="left">
 
 <div align="center" width="20" style="display: flex; flex-direction: column; align-items: center;">
  
