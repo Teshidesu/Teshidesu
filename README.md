@@ -77,7 +77,7 @@ I am participating in the `#30NitesOfCode` to create new study habits with my vi
 
 ## 📜 Magical Manifesto
 
-<img src="https://tenor.com/es/view/blasphemous-gif-12059221827999770997.gif" alt="pixel" width="280" align="left"> 
+<img src="https://tenor.com/es/view/blasphemous-gif-12059221827999770997.gif" alt="pixel" width="260" align="left"> 
 
 ```python
 def conjure_code():
@@ -87,7 +87,7 @@ def conjure_code():
          Create()
 ```
 
-*-*
+
 ## 📊 GitHub Stats
 
 <div align="center"> 
