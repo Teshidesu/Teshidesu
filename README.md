@@ -18,7 +18,7 @@
 I am in my `first year` as a `software development and design at` the National Institute of Professional Technical Training. Additionally, I am immersed in my `second-year` at the Cincinnatus Institute, where I study `Software Development` using Blended Learning and Experiential Learning methodologies.   
 
 ## 💫 About Me
-🔭I'm currently working on #30NitesOfCode by @Codedex <br>🧸I'm currently learning `UI-UX design`<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻  
+🔭I'm currently working on #30NitesOfCode by @Codedex <br>🧸I'm currently learning `UI-UX design`<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🌱Open to collaboration on exciting projects in Machine Learning and Web Development!<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻   <img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right"> 
 
 --------------------
 
