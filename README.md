@@ -17,7 +17,7 @@
 
 
 ## 📘 My Current Studies 
-I am in my `first year` as a `software development and design at` the National Institute of Professional Technical Training. Additionally, I am immersed in my `second-year` at the Cincinnatus Institute, where I study `Software Development` using Blended Learning and Experiential Learning methodologies.   
+I am in my `first year` pursuing a technical career in `software design and creation at` the National Institute of Professional Technical Training. Additionally, I am immersed in my `second-year` at the Cincinnatus Institute, where I study `Software Development` using Blended Learning and Experiential Learning methodologies. After completing my `technical degree`, I am excited to apply my skills in the real world. Ready to make my mark in the `tech industry!`🛸
 
 
 ## 💫 About Me
