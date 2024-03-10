@@ -73,9 +73,10 @@ I am participating in the `#30NitesOfCode` to create new study habits with my vi
  
 </div>
 
-## 📜 Magical Manifesto
+## 📜 Here is a Magical Manifesto
+**On the battlefield of programming, every bug dropped is a victory won...**
 
-<img src="https://tenor.com/es/view/blasphemous-gif-12059221827999770997.gif" alt="pixel" width="260" align="left"> 
+<img src="https://tenor.com/es/view/dark-souls-gif-16150712255956092871.gif" alt="pixel" width="266" align="left"> 
 
 ```python
 def conjure_code():
@@ -86,6 +87,10 @@ def conjure_code():
 ```
 
 ##
+**In the field of programming, I embrace every challenge as an opportunity to grow. Every mistake is a step towards success, every obstacle a test of my determination. Despite momentary defeats, I bravely persist, knowing that each line of code written brings me closer to my goal.**
+
+<img src="https://tenor.com/es/view/blasphemous-gif-12059221827999770997.gif" alt="pixel" width="1000" align="center"> 
+
 ## 📊 GitHub Stats
 
 <div align="center"> 
@@ -101,9 +106,16 @@ def conjure_code():
  <img src="https://tenor.com/es/view/jitomi-monoe-voms-gif-18865250.gif" alt="pixel" width="280"> 
 </div>
 
+## 
+
+
 ## 🐱‍🏍Support
+
+<div align="center">
+ 
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://https://www.buymeacoffee.com/ambarp00)
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/teshi_cosplay) 
-
+ 
+</div>
 
 
