@@ -61,7 +61,7 @@ I am participating in the `#30NitesOfCode` to create new study habits with my vi
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="36" height="36" alt="Visual Studio Code" /></a>
 <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="36" height="36" alt="Git" /></a>
-<a href="https://docs.github.com/es" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  width="36" height="36" alt="Github" /></a>
+<a href="https://docs.github.com/es" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"  width="36" height="36" alt="Github" /></a>
  
 </p>
 
