@@ -65,6 +65,13 @@ I am participating in the `#30NitesOfCode` to create new study habits with my vi
  
 </p>
 
+## 📊 GitHub Stats
+
+<div align="center"> 
+<a href="http://www.github.com/Teshidesu"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Teshidesu&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light" alt="Teshidesu's GitHub stats" /></a>
+<a href="https://github.com/Teshidesu"><img width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=Teshidesu&repo=Profile-magazine&cache_seconds=86400&theme=gruvbox_light" alt="repo cart" /></a>
+<a href="http://www.github.com/Teshidesu"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Teshidesu&theme=gruvbox_light&hide_border=true" width = "70%"/></a>
+</div>
 
 ## ✍️ Random Dev Quote
 <div align="center" width="50">
@@ -90,14 +97,6 @@ def conjure_code():
 **Every mistake is a step towards success, every obstacle a test of my determination. Despite momentary defeats, I bravely persist, knowing that each line of code written brings me closer to my goal.**
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2U1MzBkZDF0engwMGtnbTQ1NWc5cjN2ZHpuaG1ibGRmcTcweWgxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6o59taY16Fqe7VbwE8/giphy.gif" alt="pixel" width="1000" align="center"> 
-
-## 📊 GitHub Stats
-
-<div align="center"> 
-<a href="http://www.github.com/Teshidesu"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Teshidesu&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light" alt="Teshidesu's GitHub stats" /></a>
-<a href="https://github.com/Teshidesu"><img width="39%" src="https://github-readme-stats.vercel.app/api/pin/?username=Teshidesu&repo=Profile-magazine&cache_seconds=86400&theme=gruvbox_light" alt="repo cart" /></a>
-<a href="http://www.github.com/Teshidesu"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Teshidesu&theme=gruvbox_light&hide_border=true" width = "70%"/></a>
-</div>
 
 
 ## 😂 Random Dev Meme
