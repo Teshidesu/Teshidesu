@@ -69,7 +69,7 @@ I am participating in the `#30NitesOfCode` to create new study habits with my vi
 
 <div align="center"> 
 <a href="http://www.github.com/Teshidesu"><img width="51%" src="https://github-readme-stats.vercel.app/api?username=Teshidesu&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light" alt="Teshidesu's GitHub stats" /></a>
-<a href="https://github.com/Teshidesu"><img width="44%" src="https://github-readme-stats.vercel.app/api/pin/?username=Teshidesu&repo=Profile-magazine&cache_seconds=86400&theme=gruvbox_light" alt="repo cart" /></a>
+<a href="https://github.com/Teshidesu/Profile-Alternative"><img width="44%" src="https://github-readme-stats.vercel.app/api/pin/?username=Teshidesu&repo=Profile-magazine&cache_seconds=86400&theme=gruvbox_light" alt="repo cart" /></a>
 <a href="http://www.github.com/Teshidesu"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Teshidesu&theme=gruvbox_light&hide_border=true" width = "70%"/></a>
 </div>
 
