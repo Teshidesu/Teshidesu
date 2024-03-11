@@ -21,7 +21,7 @@ I am in my `first year` pursuing a technical career in `software design and crea
 
 
 ## 💫 About Me
-🔭I'm currently working on #30NitesOfCode by `@Codedex` <br>🧸I'm currently learning `UI-UX design`<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🥁`Software Developer` | `Future Ethical Hacker!`<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻 <br>🏆𝘐 𝘥𝘰𝘯'𝘵 𝘧𝘶𝘭𝘧𝘪𝘭𝘭 𝘨𝘰𝘢𝘭𝘴, 𝘐 𝘶𝘯𝘭𝘰𝘤𝘬 𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴! <br> <br>`phrase of the day`"My wand is the keyboard, and my spell is the code"🎇<br> <img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right"> 
+🔭I am working on creating a design prototype for a `mobile app`<br>🧸I'm currently learning `UI-UX design`<br>💬Ask me about....Crochet🧶 & Cozy games + Nintendo 🎮<br>🥁`Software Developer` | `Future Ethical Hacker!`<br>🧙‍♂️PixelMage...creating magical potion to brew op some Java☕️🧙‍♂️💻 <br>🏆𝘐 𝘥𝘰𝘯'𝘵 𝘧𝘶𝘭𝘧𝘪𝘭𝘭 𝘨𝘰𝘢𝘭𝘴, 𝘐 𝘶𝘯𝘭𝘰𝘤𝘬 𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴! <br> <br>`phrase of the day`"My wand is the keyboard, and my spell is the code"🎇<br> <img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right"> 
 
 --------------------
 
