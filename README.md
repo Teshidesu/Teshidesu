@@ -26,15 +26,15 @@ I am in my `first year` pursuing a technical career in `software design and crea
 --------------------
 
 I am participating in the `#30NitesOfCode` to create new study habits with my virtual pet, an adorable pet🐥🐸🦛where I will be very happy with my daily progress during the month of march. `Thanks to @Codedex for the opportunity!` ✨
-  [Check out my progress!](https://www.codedex.io/@Ambar/30-nites-of-code)   
+  [Check out my progress!](https://www.codedex.io/@teshi-Ai/30-nites-of-code) 
 
-
+  
  
- ## Pet name: Scyther🐲
+ ## Pet name: Zeus🐥
 
 <div align="center" width="50">
 
- ![@Ambar #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Ambar)
+ ![@teshi-Ai #30NitesOfCode](https://www.codedex.io/api/petStatus?user=teshi-Ai)
   
 </div>
 
