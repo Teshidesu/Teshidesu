@@ -13,21 +13,6 @@ I am in my `second year` pursuing a technical career in `software design and cre
 
 ## 💫 About Me 
 🔭I am working on creating a `Mini Website project`<br>🧸I'm currently learning `How to create an API`<img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right"> <br>💬Ask me about....Cozy games + Nintendo 🎮 <br>🥁`Software Developer` | `Future designer!`<br>🧙‍♂️PixelMage...creating magical potion to brew op some TypeScript☕️🧙‍♂️ <br>🎫I enjoy `Swimming` as a hobby<br>🏆𝘐 𝘥𝘰𝘯'𝘵 𝘧𝘶𝘭𝘧𝘪𝘭𝘭 𝘨𝘰𝘢𝘭𝘴, 𝘐 𝘶𝘯𝘭𝘰𝘤𝘬 𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴! <br> <br>`phrase of the day`"My wand is the keyboard, and my spell is the code"🎇<br>  
-
--------------------- 
-
-I am participating in the `#30NitesOfCode` to create new study habits with my virtual pet, an adorable pet🐥🐸🦛where I will be very happy with my daily progress during the month of march. `Thanks to @Codedex for the opportunity!` ✨
-  [Check out my progress!](https://www.codedex.io/@teshi-Ai/30-nites-of-code) 
-
-
-<img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" width="90"/>  
-<div align="right" width="50" style="display: flex; flex-direction: column; align-items: right;">
- 
- ## Pet name: Zeus🐥
-
-<div align="center" width="50">
-
- ![@teshi-Ai #30NitesOfCode](https://www.codedex.io/api/petStatus?user=teshi-Ai)
   
 </div>
 
@@ -103,7 +88,6 @@ def conjure_code():
 <div align="center">
  
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://https://www.buymeacoffee.com/ambarp00)
- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/teshi_cosplay) 
  
 </div>
 
