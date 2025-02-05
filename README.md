@@ -1,18 +1,13 @@
-## Welcome to my Coding Kingdom!🧙‍♂️✨
+## Welcome to my Coding Kingdom!🧙‍♂️✨ 
+[![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Visitors&color=0F56E7)](https://hits.sh/github.com/Teshidesu/) 
 
 <p align="center">
-  <img src="assets/Banner.png" alt="Mi Banner" width="800" height="390">
-</p>
-<img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" width="90"/>  
+  <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" width="90"/>  
 <div align="right" width="50" style="display: flex; flex-direction: column; align-items: right;">
+  <img src="assets/Banner.png" alt="Mi Banner" width="800" height="390"> 
+</p>
+
 </div>
-
-
- 
-[![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Visitors&color=0F56E7)](https://hits.sh/github.com/Teshidesu/) 
-</div>
-
-
 
 ## 📘 My Current Studies 
 I am in my `second year` pursuing a technical career in `software design and creation at` the National Institute of Professional Technical Training. Additionally, I am immersed in my `third-year` at the Cincinnatus Institute, where I study `Software Development` using Blended Learning and Experiential Learning methodologies. After completing my `technical degree`, I am excited to apply my skills in the real world. Ready to make my mark in the `tech industry!`🛸
