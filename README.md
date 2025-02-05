@@ -1,5 +1,5 @@
-## Welcome to my Coding Kingdom!🧙‍♂️✨ 
-[![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Visitors&color=0F56E7)](https://hits.sh/github.com/Teshidesu/) 
+## Welcome to my Coding Kingdom!🧙‍♂️🧁 
+[![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Visitors&color=FFD1DC)](https://hits.sh/github.com/Teshidesu/) 
 
 <p align="center">
   <img src="assets/Banner.png" alt="Mi Banner" width="800" height="390"> 
