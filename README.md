@@ -111,8 +111,7 @@ def conjure_code():
 <div align="center">
  
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://https://www.buymeacoffee.com/ambarp00)
- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/teshi_cosplay) 
- 
+
 </div>
 
 
