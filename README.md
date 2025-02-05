@@ -1,15 +1,13 @@
 ## Welcome to my Coding Kingdom!🧙‍♂️✨
 
-<img src="https://tenor.com/es/view/kamitsubaki_studio-shin-shiros-shirosu-pixel-art-gif-25575304.gif" alt="pixel" width="200" align="left">
-
-<div align="center" width="20" style="display: flex; flex-direction: column; align-items: center;">
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=monocraft&duration=2000&pause=1000&color=3B42E4&center=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Howdy!%F0%9F%8C%B1;I'm+DS%2FC%2C+here's+my+full+stack+aventure+%2F%E1%90%A0%EF%BD%A1%EA%9E%88%EF%BD%A1%E1%90%9F%5C)](https://git.io/typing-svg)
-
-</div>
-
+<p align="center">
+  <img src="assets/Banner.png" alt="Mi Banner" width="800" height="390">
+</p>
 <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" width="90"/>  
 <div align="right" width="50" style="display: flex; flex-direction: column; align-items: right;">
+</div>
+
+
  
 [![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Visitors&color=0F56E7)](https://hits.sh/github.com/Teshidesu/) 
 </div>
