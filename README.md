@@ -19,6 +19,10 @@ I am in my `second year` pursuing a technical career in `software design and cre
 ## 💻 Tech Stack
 
 ![Postgres](https://img.shields.io/badge/Postgres-%23f4bbc9.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+
+
 
 
 ## 📊 GitHub Stats
