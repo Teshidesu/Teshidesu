@@ -98,12 +98,6 @@ def conjure_code():
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2U1MzBkZDF0engwMGtnbTQ1NWc5cjN2ZHpuaG1ibGRmcTcweWgxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6o59taY16Fqe7VbwE8/giphy.gif" alt="pixel" width="1000" align="center"> 
 
 
-## 😂 Random Dev Meme
-<div align="center" width="50">
-<img src='https://randommeme-five.vercel.app/' style="height: 280px;"/>
- <img src="https://tenor.com/es/view/jitomi-monoe-voms-gif-18865250.gif" alt="pixel" width="280"> 
-</div>
-
 ## 
 *Thank you for visiting my profile! I hope you find what you're looking for and enjoy exploring. If you need help or have any questions, don't hesitate to contact me. Welcome and thank you for being here!* 💚
 
