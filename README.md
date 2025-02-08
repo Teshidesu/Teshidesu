@@ -16,17 +16,6 @@ I am in my `second year` pursuing a technical career in `software design and cre
   
 </div>
 
-## 🌐 Socials  
-
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%C3%A1mbar-p%C3%A9rez-rodr%C3%ADguez-6b1b3b250" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://x.com/teshidesu23" target="_blank" rel="noreferrer">
-  <img src="https://api.iconify.design/logos:twitter.svg?color=white" width="32" height="32" />
-</a>
-<a href="https://twitch.tv/teshidesu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
-
-</p>
-
 ## 💻 Tech Stack
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
