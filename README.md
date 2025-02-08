@@ -99,14 +99,12 @@ def conjure_code():
 
 
 ## 
-*Thank you for visiting my profile! I hope you find what you're looking for and enjoy exploring. If you need help or have any questions, don't hesitate to contact me. Welcome and thank you for being here!* 💚
-
-## 🐱‍🏍Support
-
-<div align="center">
+*Thank you for visiting my profile! I hope you find what you're looking for and enjoy exploring. If you need help or have any questions, don't hesitate to contact me. Welcome and thank you for being here!* 💚 <div align="center">
  
- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://https://www.buymeacoffee.com/ambarp00)
+ [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/ambarp00)
  
 </div>
+
+
 
 
