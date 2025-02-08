@@ -67,9 +67,8 @@ I am in my `second year` pursuing a technical career in `software design and cre
 ## 📊 GitHub Stats
 
 <div align="center"> 
-<a href="http://www.github.com/Teshidesu"><img width="51%" src="https://github-readme-stats.vercel.app/api?username=Teshidesu&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox_light" alt="Teshidesu's GitHub stats" /></a>
-<a href="https://github.com/Teshidesu/Profile-magazine"><img width="44%" src="https://github-readme-stats.vercel.app/api/pin/?username=Teshidesu&repo=Profile-magazine&cache_seconds=86400&theme=gruvbox_light" alt="repo cart" /></a>
 <a href="http://www.github.com/Teshidesu"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Teshidesu&theme=gruvbox_light&hide_border=true" width = "70%"/></a>
+
 </div>
 
 ## ✍️ Random Dev Quote
@@ -100,9 +99,7 @@ def conjure_code():
 
 ## 
 *Thank you for visiting my profile! I hope you find what you're looking for and enjoy exploring. If you need help or have any questions, don't hesitate to contact me. Welcome and thank you for being here!* 💚 <div align="center">
- 
- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/ambarp00)
- 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ambarp00)
 </div>
 
 
