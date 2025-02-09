@@ -7,9 +7,8 @@
 
 </div>
 
-## 📘 My Current Studies 
-I am in my `second year` pursuing a technical career in `software design and creation at` the National Institute of Professional Technical Training. Additionally, I am immersed in my `third-year` at the Cincinnatus Institute, where I study `Software Development` using Blended Learning and Experiential Learning methodologies. After completing my `technical degree`, I am excited to apply my skills in the real world. Ready to make my mark in the `tech industry!`🛸
-
+## 📘 My Current Studies  
+I am currently in my `second year` pursuing a technical degree in `Software Design and Creation` at the **National Institute of Professional Technical Training**. Throughout my studies, I have been developing strong skills in software development, problem-solving, and system design. Excited to apply my knowledge in real-world projects and make an impact in the `tech industry!` 🚀  
 
 ## 💫 About Me 
 🔭I am working on creating a `Mini Website project`<br>🧸I'm currently learning `How to create an API`<img src="https://tenor.com/es/view/pokemon-daycare-pixel-art-nintendo-game-freak-gif-18136632.gif" alt="pixel" width="250" align="right"> <br>💬Ask me about....Cozy games + Nintendo 🎮 <br>🥁`Software Developer` | `Future designer!`<br>🧙‍♂️PixelMage...creating magical potion to brew op some TypeScript☕️🧙‍♂️ <br>🎫I enjoy `Swimming` as a hobby<br>🏆𝘐 𝘥𝘰𝘯'𝘵 𝘧𝘶𝘭𝘧𝘪𝘭𝘭 𝘨𝘰𝘢𝘭𝘴, 𝘐 𝘶𝘯𝘭𝘰𝘤𝘬 𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴! <br> <br>`phrase of the day`"My wand is the keyboard, and my spell is the code"🎇<br>  
