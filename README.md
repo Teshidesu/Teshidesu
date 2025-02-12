@@ -97,7 +97,6 @@ def conjure_code():
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2U1MzBkZDF0engwMGtnbTQ1NWc5cjN2ZHpuaG1ibGRmcTcweWgxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6o59taY16Fqe7VbwE8/giphy.gif" alt="pixel" width="1000" align="center"> 
 
-
 ## 
 *Thank you for visiting my profile! I hope you find what you're looking for and enjoy exploring. If you need help or have any questions, don't hesitate to contact me. Welcome and thank you for being here!* 💚 <div align="center">
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ambarp00)
