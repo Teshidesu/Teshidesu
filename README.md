@@ -89,11 +89,7 @@ guiding the team towards innovation and efficiency. 💻✨
   </a>
 </div>
 
-<div align="center">
-  <a href="http://www.github.com/Teshidesu">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Teshidesu&theme=tokyonight&hide_border=true" width="60%"/>
-  </a>
-</div>
+
 
 
 
