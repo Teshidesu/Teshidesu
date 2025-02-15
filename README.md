@@ -71,6 +71,9 @@ guiding the team towards innovation and efficiency. 💻✨
   <a href="http://www.github.com/Teshidesu">
     <img src="https://github-readme-stats.vercel.app/api?username=Teshidesu&theme=tokyonight&show_icons=true&rank_icon=percentile" width="60%"/>
   </a>
+</div>
+
+<div align="center">
   <a href="http://www.github.com/Teshidesu">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Teshidesu&theme=tokyonight&hide_border=true" width="60%"/>
   </a>
