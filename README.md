@@ -19,8 +19,6 @@ guiding the team towards innovation and efficiency. 💻✨
 
 # 🛠 Tech Stack & Tools
 
-<div align="center">
-
 ## 📊 Databases
 ![Postgres](https://img.shields.io/badge/Postgres-%23f4bbc9.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -73,8 +71,6 @@ guiding the team towards innovation and efficiency. 💻✨
 
 ## 🐍 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-</div>
 
 ## 🎮Gaming 
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
