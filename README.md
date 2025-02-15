@@ -67,15 +67,17 @@ guiding the team towards innovation and efficiency. 💻✨
 
 ## 📊 GitHub Stats
 
-<div align="center"> 
-<a href="http://www.github.com/Teshidesu"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Teshidesu&theme=gruvbox_light&hide_border=true" width = "70%"/></a>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Teshidesu&theme=tokyonight&show_icons=true&rank_icon=percentile" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Teshidesu&theme=cobalt" />
 </div>
+
 
 ## ✍️ Random Dev Quote
 <div align="center" width="50">
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
+
  
 </div>
 
