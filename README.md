@@ -95,9 +95,6 @@ guiding the team towards innovation and efficiency. 💻✨
   </a>
 </div>
 
-
-
-
 ## ✍️ Random Dev Quote
 <div align="center" width="50">
  
