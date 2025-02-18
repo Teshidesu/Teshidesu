@@ -75,7 +75,7 @@ def conjure_code():
 ##
 **Every mistake is a step towards success, every obstacle a test of my determination. Despite momentary defeats, I bravely persist, knowing that each line of code written brings me closer to my goals...**
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2U1MzBkZDF0engwMGtnbTQ1NWc5cjN2ZHpuaG1ibGRmcTcweWgxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6o59taY16Fqe7VbwE8/giphy.gif" alt="pixel" width="1000" align="center"> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2U1MzBkZDF0engwMGtnbTQ1NWc5cjN2ZHpuaG1ibGRmcTcweWgxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6o59taY16Fqe7VbwE8/giphy.gif" alt="pixel" width="600" align="center"> 
 
 ## 
 *Thank you for visiting my profile! I hope you find what you're looking for and enjoy exploring. If you need help or have any questions, don't hesitate to contact me. Welcome and thank you for being here!* 💚 <div align="center">
