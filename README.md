@@ -37,7 +37,6 @@ guiding the team towards innovation and efficiency. 💻✨
 | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | ![Zsh](https://img.shields.io/badge/Zsh-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) |
 | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | 
 
-
 ## 📊 GitHub Stats
 
 <div align="center"> 
