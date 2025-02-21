@@ -49,7 +49,7 @@ guiding the team towards innovation and efficiency. 💻✨
 ## ✍️ Random Dev Quote
 <div align="center" width="50">
  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) <img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
 
  
 </div>
