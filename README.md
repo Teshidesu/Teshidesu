@@ -1,4 +1,4 @@
-## Welcome to my Coding Kingdom!🧙‍♂️🧁 
+## Welcome to my Coding Kingdom!🧙‍♂️ 
 [![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Visitors&color=FFD1DC)](https://hits.sh/github.com/Teshidesu/) 
 
 <p align="center">
