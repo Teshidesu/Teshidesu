@@ -2,7 +2,7 @@
 [![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Visitors&color=FFD1DC)](https://hits.sh/github.com/Teshidesu/) 
 
 <p align="center">
-  <img src="assets/Banner.png" alt="Mi Banner" width="800" height="390"> 
+  <img src="assets/Banner.png" alt="Mi Banner" width="650" height="270"> 
 </p>
 
 </div>
