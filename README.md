@@ -7,7 +7,6 @@
 
 </div>
 
-
 ## 📘 My Current Studies  
 I am currently in my `second year` pursuing a technical degree in `Software Design and Creation` at the **National Institute of Professional Technical Training**. Throughout my studies, I have been developing strong skills in software development, problem-solving, and system design. Excited to apply my knowledge in real-world projects and make an impact in the `tech industry!` 🚀  
 
