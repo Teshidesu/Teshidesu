@@ -34,7 +34,7 @@ guiding the team towards innovation and efficiency. 💻✨
 </div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 
 ## ✍️ Random Dev Quote
 <div align="center" width="50">
