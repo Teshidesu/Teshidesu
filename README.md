@@ -1,4 +1,4 @@
-## Welcome to my Coding Kingdom!<img src="assets/flower.gif">
+
 [![Hits](https://hits.sh/github.com/Teshidesu.svg?label=Visitors&color=FFD1DC)](https://hits.sh/github.com/Teshidesu/) 
 
 <p align="center">
