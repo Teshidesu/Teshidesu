@@ -21,7 +21,7 @@ guiding the team towards innovation and efficiency. 💻✨
 # 🛠 Tech Stack & Tools  <img src="assets/flower.gif">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,anaconda,bash,css,devto,figma,git,github,html,js,linux,mongodb,mysql,nextjs,nodejs,notion,npm,postgres,postman,py,react,sass,styledcomponents,svg,ts,vscode,blender,bootstrap,express,flask" />
+    <img src="https://skillicons.dev/icons?i=git,anaconda,bash,css,devto,figma,github,html,js,linux,mongodb,mysql,nextjs,nodejs,notion,npm,postgres,postman,py,react,sass,styledcomponents,svg,ts,vscode,blender,bootstrap,express,flask" />
   </a>
 </p>
 
